@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+}
+
 div {
     border: 4px dotted rgb(144, 11, 221);
     width: fit-content;
@@ -25,4 +29,21 @@ div {
     padding-inline: 40px; /* padding na horizontal */
     padding-block: 20px; /* padding vertical */
     
+}
+
+h1{
+   border: 1px solid rebeccapurple;
+   margin-bottom: 20px;
+}
+
+.algum {
+    margin-bottom: 100px;
+}
+
+.último{
+    margin-top: 50px;
+}
+
+.outro {
+    margin-inline: auto;
 }
