@@ -1,0 +1,22 @@
+.caixa-width{
+    /*-espessura,-tipo*e*a*cor*=>width,*style,*color*/
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: rgb(172, 17, 125); */
+
+    /* shorthand: vários atributos em um só */
+    border: 2px solid rgb(172, 17, 125);
+
+    width: 200px;
+}
+
+.imagem_width{
+    width: 400px;
+}
+
+.caixa_height {
+    border: 3px dashed #16adad;
+
+    height: 100px;
+    width: 100px;
+}
